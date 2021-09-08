@@ -1,0 +1,28 @@
+{
+    "name": "logseq-cool-themes",
+    "author": "mlosun",
+    "version": "0.0.1",
+    "logseq-version": "v0.3.7",
+    "description": "搜集各大佬的logseq主题，做成插件，方便自己使用",
+    "logseq": {
+      "themes": [
+        {
+          "name": "Bonofix Theme v3.4.8 ",
+          "url": "./themes/Bonofix-Theme.css",
+          "description": "A custom theme focus on UI bug fix and mobile improvement"
+        },
+        {
+          "name": "Bonofix Theme(experimental) v3.4.8 ",
+          "url": "./themes/Bonofix-Theme-exp.css",
+          "description": "Left bar feature"
+        },
+        {
+          "name": "Dracula for Logseq",
+          "url": "./themes/Dracula-for-Logseq.css",
+          "description": "A dark theme for Logseq."
+        }
+      ],
+      "id": "logseq-cool-themes",
+      "icon": "./icon.png"
+    }
+  }
