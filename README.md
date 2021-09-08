@@ -17,7 +17,7 @@
   ![](./images/Bonofix-Theme.png)
   
 - [Dracula for Logseq](https://github.com/dracula/logseq)
-  ![](./images/Dracula-THeme.png)
+  ![](./images/Dracula-Theme.png)
 
 ## 致谢
 
